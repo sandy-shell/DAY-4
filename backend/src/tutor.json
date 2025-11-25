@@ -1,0 +1,33 @@
+[
+    {
+    "id": "ai",
+    "title": "Artificial Intelligence (AI)",
+    "summary": "Artificial Intelligence refers to computer systems designed to perform tasks that normally require human intelligence, such as understanding language, recognizing images, or making decisions.",
+    "sample_question": "What is Artificial Intelligence and how is it used in everyday life?"
+},
+{
+    "id": "ml",
+    "title": "Machine Learning (ML)",
+    "summary": "Machine Learning is a branch of AI where computers learn from data and improve their performance over time without being explicitly programmed.",
+    "sample_question": "How does Machine Learning help computers make predictions?"
+},
+{
+    "id": "internet",
+    "title": "The Internet",
+    "summary": "The Internet is a global network of computers that allows people to share information, communicate, and access online services from anywhere in the world.",
+    "sample_question": "How does the Internet allow devices to communicate with each other?"
+},
+{
+    "id": "cloud",
+    "title": "Cloud Computing",
+    "summary": "Cloud computing refers to delivering computing services—like storage, servers, and software—over the internet instead of using a local computer.",
+    "sample_question": "Why do people use cloud storage instead of saving everything on their own computers?"
+},
+{
+    "id": "cybersecurity",
+    "title": "Cybersecurity",
+    "summary": "Cybersecurity involves protecting computers, networks, and data from hackers, viruses, and unauthorized access.",
+    "sample_question": "What are some common ways to protect yourself from online threats?"
+}
+
+]
